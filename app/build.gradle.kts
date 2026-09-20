@@ -8,7 +8,7 @@ android {
     compileSdk = 37
 
     defaultConfig {
-        applicationId = "com.blackhat.machinetestinfusory"
+        applicationId = "com.infusory.rd.machinetest"
         minSdk = 24
         targetSdk = 37
         versionCode = 1
